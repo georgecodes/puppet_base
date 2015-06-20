@@ -1,4 +1,4 @@
-class amp_base {
+class ghm_base {
   
 	yumrepo{'amp_yum_repo':
 		name    => 'Packages from AMP team',
